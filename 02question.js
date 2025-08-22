@@ -7,4 +7,4 @@ function verificarIdade(name, age) {
   }
 }
 
-console.log(verificarIdade("Hicaro", 19));
+console.log(verificarIdade("Hicaro", 17));

@@ -1,0 +1,19 @@
+{
+  "name": "01-javascript",
+  "version": "1.0.0",
+  "description": "Projeto: Bolsa Futuro Digital - SOFTEX   Curso: Front End - React - Turma Monte Castelo   Professor: João Carlos Pinheiro",
+  "main": "01question.js",
+  "scripts": {
+    "dev01": "nodemon 01question.js",
+    "dev02": "nodemon 02question.js",
+    "dev03": "nodemon 03question.js",
+    "dev04": "nodemon 04question.js",
+    "dev05": "nodemon 05question.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
