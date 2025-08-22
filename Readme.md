@@ -2,7 +2,8 @@
 
 Projeto: Bolsa Futuro Digital - SOFTEX  
 Curso: Front End - React - Turma Monte Castelo  
-Professor: João Carlos Pinheiro  
+Professor: João Carlos Pinheiro 
+Aluno: Hicaro André Borges Sousa 
 
 ---
 
